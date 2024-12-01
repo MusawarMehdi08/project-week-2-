@@ -44,25 +44,6 @@ The workflow includes handling missing data, feature engineering, exploratory da
 
 ---
 
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/air-quality-forecasting.git
-   cd air-quality-forecasting
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the preprocessing and model scripts:
-   ```bash
-   python preprocess.py
-   python train_model.py
-   ```
-
----
 
 ## **Usage**
 1. Replace the dataset file (`data.csv`) with your air quality dataset.
@@ -91,10 +72,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## **Acknowledgments**
 Special thanks to public air quality monitoring initiatives for providing the data used in this project.
